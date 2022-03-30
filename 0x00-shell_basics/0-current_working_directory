@@ -1,2 +1,4 @@
-shell basic
+!#/bin/bash
+pwd
+
 
