@@ -1,2 +1,2 @@
 #!/bin/bash
-dec2base(4, 2) 
+echo $((2#$BINARY)) 
